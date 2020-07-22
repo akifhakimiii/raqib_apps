@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059435340531",
+    "firebase_url": "https://raqibv1.firebaseio.com",
+    "project_id": "raqibv1",
+    "storage_bucket": "raqibv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059435340531:android:ba2b7c6de5df624eba4d86",
+        "android_client_info": {
+          "package_name": "com.example.raqib_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059435340531-pg86ctpu9eo6ch1v88hm5258h2pgj55e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7sUqa_j7ZRaxk-zBLbcZKIJdSHCkMBQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059435340531-pg86ctpu9eo6ch1v88hm5258h2pgj55e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
