@@ -15,6 +15,7 @@ import 'package:raqib_apps/Views/RaqibLocation.dart';
 import 'package:raqib_apps/Views/RaqibHeart.dart';
 import 'package:raqib_apps/Views/RaqibHeartTest.dart';
 import 'package:raqib_apps/Services/auth_services.dart';
+import 'package:raqib_apps/Views/RaqibSleep.dart';
 
 class RaqibMainPage extends StatefulWidget {
 
@@ -30,7 +31,7 @@ class _RaqibMainPageState extends State<RaqibMainPage> {
 static const TextStyle optionStyle = TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
 final List<Widget> _widgetOptions = <Widget>[
  RaqibHome(),
- RaqibLocation(),
+ RaqibSleep(),
  RaqibHeartTest(),
  RaqibPedo(),
  RaqibBP(),
